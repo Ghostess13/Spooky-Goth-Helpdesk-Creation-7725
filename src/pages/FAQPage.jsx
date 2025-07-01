@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+willimport React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import * as FiIcons from 'react-icons/fi';
 import SafeIcon from '../common/SafeIcon';
@@ -24,8 +24,8 @@ const FAQPage = () => {
       answer: "Our helpdesk is powered by ancient algorithms and supernatural support spirits that work tirelessly in the digital realm to assist lost souls seeking answers."
     },
     {
-      question: "How do I summon technical support?",
-      answer: "Simply navigate through our haunted interface, or whisper your troubles into the void. Our spectral support team monitors all channels of communication from beyond."
+      question: "When will my order ship?",
+      answer: "Average time is 3 business days, but can take around 5 if there is an influx of orders. Please refer to the top banner of the shop for current processing estimates."
     },
     {
       question: "Are my digital secrets safe in your realm?",
