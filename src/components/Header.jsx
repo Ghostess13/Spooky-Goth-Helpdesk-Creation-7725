@@ -35,7 +35,7 @@ const Header = () => {
               <SafeIcon icon={FiSkull} />
             </motion.div>
             <span className="text-xl font-bold bg-gradient-to-r from-purple-400 to-red-400 bg-clip-text text-transparent font-marcellus">
-              Dark Shadows Helpdesk
+              Morgana Cryptoria Service Portal
             </span>
           </Link>
 
