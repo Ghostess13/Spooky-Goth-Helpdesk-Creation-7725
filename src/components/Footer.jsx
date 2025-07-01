@@ -15,7 +15,7 @@ const Footer = () => {
   ];
 
   const contactInfo = [
-    { icon: FiMail, label: 'support@realm13.com' },
+    { icon: FiMail, label: 'summon@realm13.com' },
     { icon: FiPhone, label: '+1 (666) 666-6666' },
     { icon: FiMapPin, label: 'Shadow Realm, Dark Dimension' }
   ];
@@ -163,7 +163,7 @@ const Footer = () => {
             
             <div className="text-center md:text-right">
               <p className="text-sm text-gray-400 font-marcellus">
-                "Morgana Cryptoria Service Portal"
+                Morgana Cryptoria Service Portal
               </p>
               <p className="text-xs text-purple-400 mt-1 font-marcellus">
                 Version 1.0.0 • Last updated: {new Date().toLocaleDateString()}
