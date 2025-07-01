@@ -26,7 +26,7 @@ const Footer = () => {
             <span>in the shadows</span>
           </p>
           <p className="text-xs text-gray-500 mt-2 font-marcellus">
-            © 2024 Dark Shadows Helpdesk. All rights reserved in the realm of darkness.
+            © 2025 Morgana Xryptoria. All rights reserved.
           </p>
         </div>
       </div>
