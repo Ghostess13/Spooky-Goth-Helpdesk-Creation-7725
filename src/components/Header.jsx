@@ -12,9 +12,9 @@ const Header = () => {
 
   const navItems = [
     { path: '/', label: 'Home', icon: FiMoon },
-    { path: '/faq', label: 'FAQ', icon: FiSkull },
+    { path: '/faq', label: 'FAQ', icon: FiHelpCircle },
     { path: '/terms', label: 'Terms', icon: FiFileText },
-    { path: '/privacy', label: 'Privacy', icon: FiSkull }
+    { path: '/privacy', label: 'Privacy', icon: FiShield }
   ];
 
   return (
