@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import * as FiIcons from 'react-icons/fi';
 import SafeIcon from '../common/SafeIcon';
 
-const { FiMenu, FiX, FiMoon, FiSkull, FiFileText } = FiIcons;
+const { FiMenu, FiX, FiMoon, FiSkull, FiFileText, FiHelpCircle, FiShield } = FiIcons;
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
