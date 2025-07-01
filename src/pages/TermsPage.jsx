@@ -99,7 +99,68 @@ const TermsPage = () => {
                   The Ritual is Nearly Complete
                 </h3>
                 <p className="text-gray-300 mb-4 font-marcellus">
-                  Our mystical legal team is putting the finishing touches on these binding agreements. Return soon to witness the full manifestation of our terms and conditions.
+                  1. Agreement to Terms
+By accessing or purchasing products from our website, you agree to be bound by these Terms and Conditions and our Privacy Policy. If you do not agree, please refrain from using Realm13.com.
+
+2. Use of Our Store
+a. Eligibility
+You must be at least 18 years old or have the consent of a parent or legal guardian to purchase from Realm 13 or any other website operated by Morgana Cryptoria.
+
+b. License
+We grant you a limited, non-exclusive, non-transferable license to use our website for personal shopping purposes. This license does not permit any resale or commercial use of our products, website, or content without our express written consent.
+
+3. Product Information
+a. Accuracy
+We strive to ensure all product descriptions, images, and information are accurate. However, we do not warrant that such information is complete, current, or error-free.
+
+b. Ingredients and Allergens
+It is your responsibility to review the ingredients listed for each product and determine whether they are suitable for you, considering any allergies or sensitivities.
+
+c. Colors and Variations
+Due to differences in monitor settings and the unique nature of handmade products, colors and appearances may vary slightly from images shown on our site. When available, samples will be listed in the samples section.
+
+4. Orders and Payments
+a. Order Acceptance
+We reserve the right to refuse or cancel any order at our discretion, including for reasons such as product availability, pricing errors, or suspected fraud.
+
+b. Pricing and Payment
+All prices are listed in U.S. Dollars (USD) and are subject to change without notice. Payments must be made using accepted payment methods outlined on our website.
+
+5. Shipping and Returns
+a. Shipping
+Products will be shipped to the address provided at checkout. Any delivery dates provided are estimates only and not guaranteed.
+
+b. Returns and Refunds
+For detailed information on returns, exchanges, and refunds, please refer to our Refunds and Returns Policy.
+
+6. Intellectual Property
+a. Ownership
+All content on this website, including images, logos, designs, and text, is owned by Morgana Cryptoria and protected by copyright and other intellectual property laws. Stock photos and videos are the property of their respective owners and subject to their licensing terms.
+
+b. Limited Use
+You may download or print content from our website for personal, non-commercial use only. Any other use without our prior written permission is strictly prohibited.
+
+7. Limitation of Liability
+a. Disclaimer
+We make no warranties, express or implied, regarding the performance, safety, or suitability of our products for any particular purpose. You use our products at your own risk.
+
+b. Indirect Damages
+We are not liable for any indirect, incidental, special, or consequential damages arising out of or related to the use or inability to use our products.
+
+c. Total Liability
+In no event will our total liability exceed the amount you paid for the product(s) in question.
+
+8. Governing Law
+These Terms and Conditions are governed by and construed in accordance with the laws of the United States of America.
+
+9. Modifications to Terms
+We reserve the right to update or modify these Terms and Conditions at any time. Changes will be posted on this page, and it is your responsibility to review them periodically.
+
+10. Force Majeure
+We will not be liable for any delay or failure to perform resulting from causes beyond our reasonable control, including but not limited to acts of God, natural disasters, wars, pandemics, labor disputes, or disruptions in supply chains.
+
+11. Severability
+If any provision of these Terms is found to be unlawful, void, or unenforceable, that provision shall be deemed severable and will not affect the validity and enforceability of the remaining provisions.
                 </p>
                 <p className="text-sm text-purple-400 font-marcellus">
                   Last updated: Never • Next update: When the stars align
