@@ -11,7 +11,7 @@ const Footer = () => {
     { path: '/faq', label: 'FAQ', icon: FiHelpCircle },
     { path: '/terms', label: 'Terms', icon: FiFileText },
     { path: '/privacy', label: 'Privacy', icon: FiShield },
-    { path: '/returns', label: 'Returns Policy', icon: FiPackage }
+    { path: '/returns', label: 'Refund Policy', icon: FiPackage }
   ];
 
   const contactInfo = [
