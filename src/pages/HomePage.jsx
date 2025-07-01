@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import * as FiIcons from 'react-icons/fi';
 import SafeIcon from '../common/SafeIcon';
 
-const { FiHelpCircle, FiFileText, FiShield, FiMoon, FiSkull, FiZap } = FiIcons;
+const { FiHelpCircle, FiFileText, FiShield, FiMoon, FiSkull, FiZap, FiPackage } = FiIcons;
 
 const HomePage = () => {
   const services = [
@@ -28,6 +28,13 @@ const HomePage = () => {
       description: 'Your secrets are safe in our cryptic vault of digital protection.',
       link: '/privacy',
       color: 'from-blue-500 to-purple-500'
+    },
+    {
+      icon: FiPackage,
+      title: 'Returns & Refunds Policy',
+      description: 'Understand our final sales policy and limited exceptions for damaged items.',
+      link: '/returns',
+      color: 'from-green-500 to-teal-500'
     }
   ];
 
@@ -99,7 +106,7 @@ const HomePage = () => {
             Services from Beyond
           </motion.h2>
 
-          <div className="grid md:grid-cols-3 gap-8">
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             {services.map((service, index) => (
               <motion.div
                 key={service.title}

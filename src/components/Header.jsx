@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import * as FiIcons from 'react-icons/fi';
 import SafeIcon from '../common/SafeIcon';
 
-const { FiMenu, FiX, FiMoon, FiSkull, FiFileText, FiHelpCircle, FiShield } = FiIcons;
+const { FiMenu, FiX, FiMoon, FiSkull, FiFileText, FiHelpCircle, FiShield, FiPackage } = FiIcons;
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -14,7 +14,8 @@ const Header = () => {
     { path: '/', label: 'Home', icon: FiMoon },
     { path: '/faq', label: 'FAQ', icon: FiHelpCircle },
     { path: '/terms', label: 'Terms', icon: FiFileText },
-    { path: '/privacy', label: 'Privacy', icon: FiShield }
+    { path: '/privacy', label: 'Privacy', icon: FiShield },
+    { path: '/returns', label: 'Returns', icon: FiPackage }
   ];
 
   return (
