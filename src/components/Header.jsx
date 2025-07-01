@@ -15,7 +15,7 @@ const Header = () => {
     { path: '/faq', label: 'FAQ', icon: FiHelpCircle },
     { path: '/terms', label: 'Terms', icon: FiFileText },
     { path: '/privacy', label: 'Privacy', icon: FiShield },
-    { path: '/returns', label: 'Returns', icon: FiPackage }
+    { path: '/returns', label: 'Returns', icon: FiSkull }
   ];
 
   return (
