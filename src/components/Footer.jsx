@@ -163,7 +163,7 @@ const Footer = () => {
             
             <div className="text-center md:text-right">
               <p className="text-sm text-gray-400 font-marcellus">
-                "In darkness we find light, in shadows we discover truth"
+                "Morgana Cryptoria Service Portal"
               </p>
               <p className="text-xs text-purple-400 mt-1 font-marcellus">
                 Version 1.0.0 • Last updated: {new Date().toLocaleDateString()}
