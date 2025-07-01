@@ -120,7 +120,97 @@ const PrivacyPage = () => {
                   The Protection Ritual Continues
                 </h3>
                 <p className="text-gray-300 mb-4 font-marcellus">
-                  Our digital guardians are crafting the final enchantments for our comprehensive privacy policy. Your data fortress grows stronger with each passing moon cycle.
+                  1. Information collected: Personal information that you share when placing your order or contacting us. Typically collected while placing an order: full name, address, phone #, email address, and encrypted payment information securely transmitted via PCI-DSS certified Enterprise-Class servers.
+
+
+
+2. Data usage: Collected information will be used to process and ship orders, or to contact the customer when necessary. This may include order related tasks, providing customer support, personalizing user experiences, and marketing communications (if opted-in). Your information is processed through our payment and shipping partners so that we can ship your order. We do not and will not sell or trade personal information, EVER. If required, mainly in cases of fraud, we will release personal information to law enforcement. 
+
+
+
+3. Data protection: We are in compliance with the California Consumer Privacy Act (CCPA). As mentioned above, we do not and will not sell or trade your personal information. If you wish to have your data removed in accordance with the CCPA, please open a service ticket by clicking on the button at the bottom of this document. 
+
+
+
+4. Cookies: Cookie Policy
+
+
+
+This Cookie Policy explains how Cryptoria ("we", "us", and "our") uses cookies and similar technologies to recognize you when you visit our website at ("cryptoria.com"). It explains what these technologies are and why we use them, as well as your rights to control our use of them.
+
+
+
+What are cookies?
+
+Cookies are small data files that are placed on your computer or mobile device when you visit a website. Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information.
+
+
+
+Why do we use cookies?
+
+We use cookies and similar technologies for a number of reasons, such as:
+
+
+
+- To provide you with a more personalized and efficient experience when browsing our Website
+
+- To remember your preferences and settings
+
+- To gather analytics to help us understand how users engage with our Website and to improve our Website
+
+- To serve you with relevant advertising
+
+
+
+The specific types of cookies and similar technologies we use are:
+
+
+
+- Strictly Necessary Cookies: These are cookies that are required for the operation of our Website. They include, for example, cookies that enable you to log into secure areas of our Website.
+
+- Analytical/Performance Cookies: These cookies allow us to recognize and count the number of visitors and to see how visitors move around our Website when they are using it. This helps us to improve the way our Website works, for example, by ensuring that users are finding what they are looking for easily.
+
+- Functionality Cookies: These are used to recognize you when you return to our Website. This enables us to personalize our content for you and remember your preferences.
+
+- Targeting Cookies: These cookies record your visit to our Website, the pages you have visited and the links you have followed. We will use this information to make our Website and the products displayed on it more relevant to your interests.
+
+
+
+How can you control cookies?
+
+You have the right to decide whether to accept or reject cookies. You can exercise your cookie preferences by clicking on the appropriate opt-out links provided below.
+
+
+
+You can set or amend your web browser controls to accept or refuse cookies. If you choose to reject cookies, you may still use our Website though your access to some functionality and areas may be restricted. As the means by which you can refuse cookies through your web browser controls vary from browser-to-browser, you should visit your browser's help menu for more information.
+
+
+
+In addition, most advertising networks offer you a way to opt out of targeted advertising. If you would like to find out more information, please visit http://www.aboutads.info/choices/ or http://www.youronlinechoices.com.
+
+
+
+We may update this Cookie Policy from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons. We encourage you to periodically review this page for the latest information on our cookie practices.
+
+
+
+If you have any questions about our use of cookies or this Cookie Policy, please contact us at [Company Email].
+
+
+
+5. User rights: 
+
+
+
+6. Data retention: Accounts will be anonymized if there has not been at least one order placed in a 6 month period. When an account is anonymized, all personal information is removed and account information, including order history and wishlists, will no longer be available. If you have not ordered in 6 months, you will likely need to create a new account. 
+
+
+
+7. Updates and notifications: This privacy policy may be updated periodically and will provide a date for the last revision. A clear and prominent notice on the website will notify users of any significant changes. This notice will appear for 30 days after significant changes are made. 
+
+
+
+8. Children's privacy: Under 18 requires parental/guardian permission to place orders. This site is not directed at those under 13 years old. Children's Online Privacy Protection Act (COPPA) 
                 </p>
                 <p className="text-sm text-green-400 font-marcellus">
                   Last enchantment: Never • Next blessing: When the digital spirits awaken
